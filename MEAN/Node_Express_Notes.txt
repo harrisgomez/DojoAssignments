@@ -1,0 +1,23 @@
+NODE
+What is the techonology?
+	-tool for running JavaScript
+	-using its package manager (npm) gives access to open source libraries
+
+Why is it important to learn to become a developer?
+	-performance and scalability! (asynchronous) (L2 runs while L1 schedules some task)
+	-good for startups gaining an influx of users
+	-great when using RESTful API. Provide some input parameters, get back parsable data
+
+How is it used today / how will we use it?
+	-extremely useful when coding in back-end
+	-access to codes written in one file for use in another
+
+EXPRESS
+What is the techonology?
+
+
+Why is it important to learn to become a developer?
+	
+
+How is it used today / how will we use it?
+	

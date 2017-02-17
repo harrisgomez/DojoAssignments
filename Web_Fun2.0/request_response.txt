@@ -1,0 +1,27 @@
+Request/Response cycle
+
+WEB SERVER
+- Apache
+- Nginx
+- Tomcats
+- Wberick/Unicorn
+- ...
+
+*** Doesn't matter watch language you speak, the instructions to building the same product don't vary much ***
+
+INTERPRETERS (and their frameworks to help in development)
+- PHP (CodeIgniter, CakePHP, Zend, etc.)
+- Python (Django)
+- Ruby (Rails, Sinatra)
+- C# (.NET MVC)
+- Java (Spring Framework)
+
+DATABASES
+- MySQL
+- SQLite
+- Postgres
+- Oracle
+- Redis
+- MongoDB
+
+
